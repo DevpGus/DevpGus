@@ -1,4 +1,4 @@
-# ## Bem-vindo(a) ao perfil do Gusta! 😁
+# ## Welcome to the Gusta's profile! 😁
 
  <div>
    <a href="https://github.com/DevpGus">
