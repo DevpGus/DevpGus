@@ -5,10 +5,6 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevpGus&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevpGus&layout=compact&langs_count=6&theme=dark"/> 
 </div>  -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-DevpGus-black?logo=github" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-</p>
 <div style="display: inline_block">
   <br> 
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
