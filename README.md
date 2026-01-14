@@ -5,13 +5,38 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevpGus&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevpGus&layout=compact&langs_count=6&theme=dark"/> 
 </div>  -->
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <br> 
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
     <img align="center" alt="PYTHON" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
-    <img align="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg"/> 
-</div> 
+</div>  -->
   
 <!-- **DevpGus/DevpGus** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
+
+🚀 Tech Stack
+🎨 Frontend
+<p align="center"> <img alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+</p>
+
+🧠 Backend / Data
+<p align="center"> 
+  <img alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
+  <img alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
+  <img alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
+</p>
+
+📊 Data Science / Machine Learning
+<p align="center"> 
+  <img alt="OpenCV" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"> 
+  <img alt="Streamlit" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"> 
+</p>
+
+☁️ Backend as a Service
+<p align="center"> 
+  <img alt="Supabase" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"> 
+</p>
+
